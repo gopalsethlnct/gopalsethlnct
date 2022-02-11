@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Geeks!!👋 I'm  Gopal Gupta</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Java Developer </h3>
 <br>
 
 `✨A learner, innovator and a developer, always keen to learn new things. Trying to make change in the society by using my skills.`
