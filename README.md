@@ -14,18 +14,18 @@
 - 📄 [My Resume](https://drive.google.com/file/d/1oHGCUskZQMYB_HnH6IlZ7G6Lo3XunTBf/view?usp=sharing)
 
 - ⚡ Fun fact **Probably Coding | Driving | watching Youtube | sleeping right now ☺**
-<!---
+
 <br>
 <p align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brainless-coder" height="30" width="40" /></a>
-  <a href="https://instagram.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arvind_prime" height="30" width="40" /></a>
-  #<a href="https://www.codechef.com/users" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heartlesscoder" height="30" width="40" /></a>
-  #<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brainless_coder" height="30" width="40" /></a>
-  #<a href="https://codeforces.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="brainless-coder" height="30" width="40" /></a>
-  #<a href="https://www.leetcode.com/r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="brainless-coder" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gopal-gupta-0010641a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Gopal Gupta" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gopal_seth_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Gopal Gupta" height="30" width="40" /></a>
+  
+  <a href="https://www.hackerrank.com/gopalsethlnct" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gopal gupta" height="30" width="40" /></a>
+  
+  <a href="https://leetcode.com/gopalsethlnct/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gopal gupta" height="30" width="40" /></a>
 </p>
--->
+
 <br>
 
 
